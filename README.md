@@ -1,1 +1,1 @@
-# image-compression-using-SVD
+# Simple Image Compression Program Using SVD
